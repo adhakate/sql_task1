@@ -1,0 +1,56 @@
+"id","employee_code","employee_name","designation","salary","contact_no"
+6,6,"Amit Sharma","Network Engineer","8",98123
+7,8,"Priya Singh","Software Developer","10",98234
+9,10,"Sneha Patil","HR Manager","11",98456
+10,11,"Ankit Joshi","Cloud Engineer","13",98567
+11,12,"Pooja Deshmukh","Business Analyst","9",98678
+12,13,"Suresh Gupta","Technical Lead","14",98789
+13,14,"Neha Kulkarni","Project Manager","16",98890
+14,15,"Ravi Kumar","Frontend Developer","8.5",98901
+15,16,"Swati Mishra","Backend Developer","9.5",99012
+16,17,"Deepak Jain","DevOps Engineer","12",99123
+1,1,"Harrish Wankhede","Destop Support","6.5",9860
+2,2,"Komal Ninawe","Chat Support","3.5",99060
+3,3,"Vikas Meshram","System Administrator","9.5",96540
+8,7,"Madhuri kohad","Linux Administrator","15.5",96000
+4,4,"Rishika panday","Database Administrator","12.5",97800
+5,5,"Abha kothe","Data Analyst","20.5",98760
+17,18,"Kiran More","UI/UX Designer","7",99234
+18,19,"Manoj Pawar","Mobile App Developer","10.5",99345
+19,20,"Divya Tiwari","Content Writer","6",99456
+20,21,"Sanjay Raut","SEO Specialist","7.5",99567
+21,22,"Meena Chavan","Digital Marketer","8",99678
+22,23,"Vivek Salve","IT Support","6.5",99789
+23,24,"Ritika Jain","Scrum Master","13.5",99890
+24,25,"Ajay Patil","Product Owner","15",99901
+25,26,"Sunita Yadav","Graphic Designer","7",98111
+26,27,"Nilesh Kale","Security Analyst","11.5",98222
+27,28,"Shweta Joshi","ERP Consultant","12.5",98333
+28,29,"Gaurav Singh","Full Stack Developer","14.5",98444
+29,30,"Anjali Dubey","Data Scientist","18",98555
+30,31,"Rohit Sahu","Machine Learning Engineer","17",98666
+31,32,"Kavita More","AI Engineer","19",98777
+32,33,"Sagar Pawar","Blockchain Developer","16.5",98888
+33,34,"Pallavi Shinde","Web Developer","8",98999
+34,35,"Yogesh Naik","Penetration Tester","13",99021
+35,36,"Rupali Korde","IT Manager","15.5",99132
+36,37,"Prashant Jadhav","Operations Manager","14",99243
+37,38,"Snehal Patil","Cloud Architect","18.5",99354
+38,39,"Vishal Deshmukh","Database Developer","12",99465
+39,40,"Mona Kaur","Technical Writer","7.5",99576
+40,41,"Siddharth Rao","Support Engineer","6.5",99687
+41,42,"Aarti Gawande","Network Administrator","10",99798
+42,43,"Hemant Kale","System Analyst","9",99819
+43,44,"Bhavana Singh","Test Engineer","8.5",99920
+44,45,"Nikhil Patil","Release Manager","13",98123
+45,46,"Rashmi Joshi","QA Lead","11.5",98234
+46,47,"Sandeep Pawar","Data Engineer","15",98345
+47,48,"Priyanka More","Business Development","10.5",98456
+48,49,"Ashish Sharma","IT Consultant","12.5",98567
+49,50,"Geeta Yadav","HR Executive","7",98678
+50,51,"Tarun Mehta","Cloud Support","9.5",98789
+51,52,"Kiran Patil","Linux Engineer","11",98890
+52,53,"Megha Jain","Application Support","8",98901
+53,54,"Vikas Sharma","Technical Recruiter","7.5",99012
+54,55,"Ritu Singh","Process Analyst","8.5",99123
+55,56,"Aakash Gupta","IT Auditor","13.5",99234
